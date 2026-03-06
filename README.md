@@ -2,10 +2,8 @@
 <h3 align="center">Bachelor in Computer Science: Networks and Telecommunications Major: Software Development (2nd year)</h3>
 
 - 👨‍💻 All of my projects are available at [DevroyeAlexandre.be](DevroyeAlexandre.be)
-
-- 📫 How to reach me **alexandre.devroye@std.heh.be**
   
-  #🥋Esprit Kyokushin Osu !
+ > 🥋Esprit Kyokushin Osu !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
