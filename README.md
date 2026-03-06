@@ -4,10 +4,8 @@
 - 👨‍💻 All of my projects are available at [DevroyeAlexandre.be](DevroyeAlexandre.be)
 
 - 📫 How to reach me **alexandre.devroye@std.heh.be**
-
-- 📄 Know about my experiences [http](http)
-
-- ⚡ Fun fact **Esprit Kyokushin Osu !**
+  
+    ****🥋Esprit Kyokushin Osu !****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
