@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **alexandre.devroye@std.heh.be**
   
-    ****🥋Esprit Kyokushin Osu !****
+  #🥋Esprit Kyokushin Osu !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
