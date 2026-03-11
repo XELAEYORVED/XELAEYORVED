@@ -23,7 +23,7 @@
 
 ### 🛠 Mes Technologies Préférées
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,java,kotlin,flutter,html,css,js,ts,react,nextjsphp,mysql,tailwind,nodejs,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,py,java,kotlin,flutter,django,html,css,js,ts,react,nextjs,php,mysql,tailwind,nodejs,git,vscode&theme=dark" />
 </p>
 
 ---
