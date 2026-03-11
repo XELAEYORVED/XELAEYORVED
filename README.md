@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm XELA EYORVED</h1>
 <h3 align="center">Bachelor in Computer Science: Networks and Telecommunications Major: Software Development (2nd year)</h3>
 
-- 👨‍💻 All of my projects are available at [DevroyeAlexandre.be](DevroyeAlexandre.be)
   
  > <h2>🥋Esprit Kyokushin Osu !</h2>
 
