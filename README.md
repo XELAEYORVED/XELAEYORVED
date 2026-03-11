@@ -11,7 +11,8 @@
 
 <h1 align="center">🥋 ESPRIT KYOKUSHIN 🥋</h1>
 <p align="center">
-  <i>"La vraie force ne vient pas de la force physique, mais d'une volonté indomptable."</i>
+  <i>"心技体 — Shin Gi Tai
+L'Esprit pour diriger, la Technique pour réaliser, le Corps pour endurer."</i>
 </p>
 
 ---
