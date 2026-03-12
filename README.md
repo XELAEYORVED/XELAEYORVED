@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=7aa2f7&height=250&section=header&text=Alexandre%20Devroye&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=ALEXANDRE%20DEVROYE&fontSize=65&animation=fadeIn&fontAlignY=38&theme=radical&strokeWidth=2&stroke=7aa2f7&desc=DÉVELOPPEUR%20•%20PERSÉVÉRANCE%20•%20INNOVATION&descAlignY=60&descAlign=center&descFontSize=20" />
 </p>
 
 <p align="center">
@@ -11,20 +11,31 @@
 
 <h1 align="center">🥋 ESPRIT KYOKUSHIN 🥋</h1>
 <p align="center">
-  <i>"心技体 — Shin Gi Tai
-L'Esprit pour diriger, la Technique pour réaliser, le Corps pour endurer."</i>
+  <i>"L'Esprit pour diriger, la Technique pour réaliser, le Corps pour endurer."</i>
 </p>
 
 ---
 
 ### 🚀 À propos de moi
 <p align="left">
-  Je suis Alexandre, étudiant en 2ème année de <b>Bachelor Informatique Réseaux et Télécommunication HEH</b> avec une spécialisation en développement logiciel.
+  Je suis Alexandre, étudiant en 2ème année de <b>Bachelor Informatique Réseaux et Télécommunication HEH</b> avec une spécialisation en développement logiciel. Ma pratique du Karaté influence ma rigueur et ma persévérance dans chaque projet.
 </p>
 
-### 🛠 Mes Technologies Préférées
+### 🛠 Mes Technologies & Compétences
+
+#### 🧠 Langages Fondamentaux
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,java,kotlin,flutter,django,html,css,js,ts,react,nextjs,php,mysql,tailwind,nodejs,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,py,java,kotlin,php&theme=dark" />
+</p>
+
+#### 🎨 Développement Frontend & Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter&theme=dark" />
+</p>
+
+#### 🏗 Backend & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,mysql,git,vscode&theme=dark" />
 </p>
 
 ---
@@ -34,7 +45,7 @@ L'Esprit pour diriger, la Technique pour réaliser, le Corps pour endurer."</i>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=7AA2F7&center=true&vCenter=true&width=500&lines=⌛+Portfolio+en+développement...;🚀+Restez+connectés+pour+le+lancement;✨+AlexandreDevroye.dev" />
 </p>
 <p align="center">
-  <i>Un espace dédié à mes projets et innovations techniques, à découvrir très bientôt.</i>
+  <i>Un espace dédié à mes projets</i>
 </p>
 
 ---
