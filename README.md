@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=ALEXANDRE%20DEVROYE&fontSize=65&animation=fadeIn&fontAlignY=38&theme=radical&strokeWidth=2&stroke=7aa2f7&desc=DÉVELOPPEUR%20•%20PERSÉVÉRANCE%20•%20INNOVATION&descAlignY=60&descAlign=center&descFontSize=20" />
+  <img src="https://i.ibb.co/LzN2n1K/banner-alexandre-v2.png" alt="Alexandre Devroye - Étudiant Développeur" width="100%" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### 🚀 À propos de moi
 <p align="left">
-  Je suis Alexandre, étudiant en 2ème année de <b>Bachelor Informatique Réseaux et Télécommunication HEH</b> avec une spécialisation en développement logiciel. Ma pratique du Karaté influence ma rigueur et ma persévérance dans chaque projet.
+  Je suis Alexandre, étudiant en 2ème année de <b>Bachelor Informatique Réseaux et Télécommunication HEH</b> avec une spécialisation en développement logiciel.
 </p>
 
 ### 🛠 Mes Technologies & Compétences
@@ -45,7 +45,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=7AA2F7&center=true&vCenter=true&width=500&lines=⌛+Portfolio+en+développement...;🚀+Restez+connectés+pour+le+lancement;✨+AlexandreDevroye.dev" />
 </p>
 <p align="center">
-  <i>Un espace dédié à mes projets</i>
+  <i>Un espace dédié à mes projets et innovations techniques, à découvrir très bientôt.</i>
 </p>
 
 ---
@@ -53,3 +53,5 @@
 <p align="center">
   <i>"Une âme sans discipline est une lampe sans huile."</i>
 </p>
+
+http://googleusercontent.com/immersive_entry_chip/0
