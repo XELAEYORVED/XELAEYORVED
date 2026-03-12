@@ -14,7 +14,7 @@
 
 ### 🚀 À propos de moi
 <p align="left">
-  Je suis Alexandre, étudiant en 2ème année de <b>Bachelor Informatique Réseaux et Télécommunication HEH</b> avec une spécialisation en développement logiciel. 
+  Étudiant en 2ème année de <b>Bachelor Informatique Réseaux et Télécommunication HEH</b> avec une spécialisation en développement logiciel. 
 </p>
 
 ### 🛠 Mes Technologies & Compétences
