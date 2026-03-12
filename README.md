@@ -19,7 +19,7 @@ L'Esprit pour diriger, la Technique pour réaliser, le Corps pour endurer."</i>
 
 ### 🚀 À propos de moi
 <p align="left">
-  Je suis Alexandre, étudiant en 2ème année de <b>Bachelor Informatique</b> avec une spécialisation en développement logiciel. Mon parcours est imprégné des principes du <b>Kyokushin Karate</b> : persévérance, rigueur et dépassement de soi, des valeurs que j'applique à chaque projet de code.
+  Je suis Alexandre, étudiant en 2ème année de <b>Bachelor Informatique Réseaux et Télécommunication HEH</b> avec une spécialisation en développement logiciel.
 </p>
 
 ### 🛠 Mes Technologies Préférées
