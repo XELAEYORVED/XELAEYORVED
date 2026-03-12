@@ -44,8 +44,5 @@
   <i>Un espace dédié à mes projets.</i>
 </p>
 
----
+--
 
-<p align="center">
-  <i>"Une âme sans discipline est une lampe sans huile."</i>
-</p>
