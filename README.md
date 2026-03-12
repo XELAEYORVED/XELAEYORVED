@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/LzN2n1K/banner-alexandre-v2.png" alt="Alexandre Devroye - Étudiant Développeur" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=220&section=header&text=Alexandre%20Devroye&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight&desc=Développeur%20•%20Persévérance%20•%20Innovation&descAlignY=55&descFontSize=20" alt="Alexandre Devroye" />
 </p>
 
 <p align="center">
@@ -9,16 +9,12 @@
 
 ---
 
-<h1 align="center">🥋 ESPRIT KYOKUSHIN 🥋</h1>
-<p align="center">
-  <i>"L'Esprit pour diriger, la Technique pour réaliser, le Corps pour endurer."</i>
-</p>
-
+<h1 align="center">🥋 ESPRIT KYOKUSHIN </h1>
 ---
 
 ### 🚀 À propos de moi
 <p align="left">
-  Je suis Alexandre, étudiant en 2ème année de <b>Bachelor Informatique Réseaux et Télécommunication HEH</b> avec une spécialisation en développement logiciel.
+  Je suis Alexandre, étudiant en 2ème année de <b>Bachelor Informatique Réseaux et Télécommunication HEH</b> avec une spécialisation en développement logiciel. 
 </p>
 
 ### 🛠 Mes Technologies & Compétences
@@ -45,7 +41,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=7AA2F7&center=true&vCenter=true&width=500&lines=⌛+Portfolio+en+développement...;🚀+Restez+connectés+pour+le+lancement;✨+AlexandreDevroye.dev" />
 </p>
 <p align="center">
-  <i>Un espace dédié à mes projets et innovations techniques, à découvrir très bientôt.</i>
+  <i>Un espace dédié à mes projets.</i>
 </p>
 
 ---
@@ -53,5 +49,3 @@
 <p align="center">
   <i>"Une âme sans discipline est une lampe sans huile."</i>
 </p>
-
-http://googleusercontent.com/immersive_entry_chip/0
