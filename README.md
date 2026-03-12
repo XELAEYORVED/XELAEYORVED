@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=220&section=header&text=Alexandre%20Devroye&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight&desc=Développeur%20•%20Persévérance%20•%20Étudiant&descAlignY=55&descFontSize=20" alt="Alexandre Devroye" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=220&section=header&text=Alexandre%20Devroye&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight&desc=%20Étudiant%20HEH•%&descAlignY=55&descFontSize=20" alt="Alexandre Devroye" />
 </p>
 
 <p align="center">
