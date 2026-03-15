@@ -21,7 +21,7 @@
 
 #### 🧠 Langages Fondamentaux
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,java,kotlin,php,solidity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,py,java,kotlin,php,Dart,solidity&theme=dark" />
 </p>
 
 #### 🎨 Développement Frontend & Mobile
