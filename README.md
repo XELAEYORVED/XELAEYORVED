@@ -21,12 +21,12 @@
 
 #### 🧠 Langages Fondamentaux
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,java,kotlin,php,dart,solidity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,java,,php,,solidity&theme=dark" />
 </p>
 
 #### 🎨 Développement Frontend & Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,&theme=dark" />
 </p>
 
 #### 🏗 Backend & Infrastructure
