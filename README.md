@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,30:1a1b4b,60:4c1d95,100:7c3aed&height=230&section=header&text=Alexandre%20Devroye&fontSize=50&fontColor=e6edf3&fontAlignY=45&desc=IT%20Student%20%E2%80%A2%20CCNA%20%E2%80%A2%20Cybersecurity&descSize=18&descColor=c4b5fd&descAlignY=68&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:e63946&height=200&section=header&text=Alexandre%20Devroye&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%E2%80%A2%20CCNA%20%E2%80%A2%20Cybersecurity&descSize=16&descColor=ff6b6b&descAlignY=56&animation=fadeIn" width="100%" />
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=%3E+Building+tools+for+cyber+defense+%F0%9F%94%90;%3E+Breaking+boards+%26+breaking+packets+%F0%9F%A5%8B;%3E+Passive+recon+%7C+Active+learner+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1200&color=E63946&center=true&vCenter=true&repeat=true&width=550&height=40&lines=%24+sudo+recon+--target+%3Cdomain%3E;%24+python3+reconkit.py+--scan;%24+echo+%22Building+tools+for+defense%22" alt="Typing SVG" /></a>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://alexandre-devroye.vercel.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-devroye-5b145624b/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandre.devroye@gmail.com)
+[![Portfolio](https://img.shields.io/badge/▸_PORTFOLIO-e63946?style=for-the-badge&logo=vercel&logoColor=fff)](https://alexandre-devroye.vercel.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/▸_LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=e63946)](https://www.linkedin.com/in/alexandre-devroye-5b145624b/)&nbsp;
+[![Email](https://img.shields.io/badge/▸_EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=e63946)](mailto:alexandre.devroye@gmail.com)
 
 </div>
 
@@ -19,14 +19,11 @@
 <div align="center">
 
 ```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-  ██╗  ██╗███████╗██╗  ██╗    ███╗   ███╗ ██████╗ ███╗   ██╗███████╗
-  ██║  ██║██╔════╝██║  ██║    ████╗ ████║██╔═══██╗████╗  ██║██╔════╝
-  ███████║█████╗  ███████║    ██╔████╔██║██║   ██║██╔██╗ ██║███████╗
-  ██╔══██║██╔══╝  ██╔══██║    ██║╚██╔╝██║██║   ██║██║╚██╗██║╚════██║
-  ██║  ██║███████╗██║  ██║    ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║███████║
-  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
-   3e année Réseaux & Télécoms · HEH Mons · Kyokushin Fighter
+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+ ┃  ▸ 3e année Réseaux & Télécommunications — HEH, Mons             ┃
+ ┃  ▸ Certifié CCNA · Passionné cybersécurité & infrastructure      ┃
+ ┃  ▸ Je monte des PC, je sécurise des réseaux, je build des tools  ┃
+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 </div>
@@ -45,19 +42,25 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🔒_ReconKit-1a1b4b?style=for-the-badge" /><br><br>
-OSINT passif · CLI + Web<br>
+<br>
+<img src="https://img.shields.io/badge/RECONKIT-e63946?style=for-the-badge" /><br><br>
+<strong>OSINT passif</strong><br>CLI + Dashboard web<br>
 <sub><code>Python</code> <code>FastAPI</code> <code>React</code></sub>
+<br><br>
 </td>
 <td align="center" width="33%">
-<a href="https://alexandre-devroye.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-4c1d95?style=for-the-badge" /></a><br><br>
-Dark theme · Animations<br>
+<br>
+<a href="https://alexandre-devroye.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge" /></a><br><br>
+<strong>Site personnel</strong><br>Dark theme · Canvas particles<br>
 <sub><code>HTML</code> <code>CSS</code> <code>JavaScript</code></sub>
+<br><br>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🛡️_CyberDojo-7c3aed?style=for-the-badge" /><br><br>
-Anti-arnaques gratuit<br>
+<br>
+<img src="https://img.shields.io/badge/CYBERDOJO-e63946?style=for-the-badge" /><br><br>
+<strong>Anti-arnaques</strong><br>Sensibilisation gratuite<br>
 <sub><code>Web</code> <code>Sécurité</code></sub>
+<br><br>
 </td>
 </tr>
 </table>
@@ -65,52 +68,44 @@ Anti-arnaques gratuit<br>
 
 <br>
 
-<h3 align="center">📊 GitHub Analytics</h3>
+---
+
+<h3 align="center">📊 GitHub Metrics</h3>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XELAEYORVED&layout=compact&hide_border=true&bg_color=0d1117&text_color=c4b5fd&title_color=7c3aed&card_width=450" height="170" />
-
+<img src="./metrics-header.svg" width="95%" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=XELAEYORVED&hide_border=true&background=0d1117&ring=7c3aed&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=e6edf3&sideNums=e6edf3&dates=4c1d95&stroke=1a1b4b" height="170" />
-
+<img src="./metrics-languages.svg" width="95%" />
 </div>
 
 <div align="center">
+<img src="./metrics-achievements.svg" width="95%" />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=XELAEYORVED&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=e6edf3&area=true&area_color=4c1d9533&hide_border=true&height=250" width="95%" />
+---
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=XELAEYORVED&hide_border=true&background=0d1117&ring=e63946&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=e63946&sideNums=e63946&dates=555555&stroke=1a1a2e" height="170" />
 
 </div>
 
 <br>
 
-<h3 align="center">🏆 Trophées</h3>
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=XELAEYORVED&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=10" width="80%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XELAEYORVED&bg_color=0d1117&color=ffffff&line=e63946&point=ff6b6b&area=true&area_color=e6394620&hide_border=true&height=250&custom_title=" width="95%" />
 
 </div>
 
 <br>
 
-<!-- 
-  ┌─────────────────────────────────────────────────────────┐
-  │  3D CONTRIBUTION GRAPH                                  │
-  │  Pour activer : crée le fichier ci-dessous dans         │
-  │  .github/workflows/profile-3d.yml de ton repo           │
-  │  XELAEYORVED/XELAEYORVED                               │
-  │  Puis décommente la ligne <img> en dessous               │
-  └─────────────────────────────────────────────────────────┘
--->
-
-<!-- <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" /> -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7c3aed,30:4c1d95,60:1a1b4b,100:0d1117&height=120&section=footer&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e63946,50:1a1a2e,100:0d1117&height=120&section=footer&reversal=true" width="100%" />
 
 </div>
